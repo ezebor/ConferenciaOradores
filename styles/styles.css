@@ -51,15 +51,15 @@
   color: white;
 }
 
-.speackers .card {
+#speackers .card {
   height: 100%;
 }
 
-.place-time {
+#place-time {
   background-color: #343a40;
   color: white;
 }
 
-.place-time img {
+#place-time img {
   max-width: 100%;
 }
